@@ -1,9 +1,36 @@
-# ebuy 
-Ebuy is application using Swift 3 and Xcode 7. 
+# ebuy
 
-# Getting started
-This example app uses [CocoaPods]
-- Clone the project repository
-- Run `pod install` in the `ebuy` directory
-- Open the .xcworkspace file
-- You're all set.
+![](Screenshots/ebuy.png)
+
+![](Screenshots/addItems.png)
+
+## Usage
+
+1) Download the repository
+
+```
+$ git clone https://github.com/tuananh11594/ebuy.git
+$ cd ebuy
+```
+    
+2) Run `pod install`
+
+```
+$ pod install
+```
+
+3) Open the project in Xcode
+
+```
+$ open ebuy.xcworkspace
+```
+
+4) Compile and run the app in your simulator
+
+![](Screenshots/run.png)
+
+# Requirements
+
+- Xcode 7
+- iOS 10
+- Swift 3
